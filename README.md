@@ -41,7 +41,7 @@ Here are quite a few individual projects I've coded since 2019, in chronological
 
 Here are some collaborative projects coded in my school, Pinghe:
 
-1. IronPulse 6941 [2024] and [2025] Robots
+1. IronPulse 6941 [2024](https://github.com/frc6941/2024-competition-robot) and [2025](https://github.com/frc6941/2025-competition-robot) Robots
 2. CASphere: [Homepage](https://casphere.net)
 - I used Nest + Nuxt
 - The all-in-one management solution for CAS activities
