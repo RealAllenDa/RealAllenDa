@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Zian Da (Allen)!
 
-I'm a high school IBDP '26 student passionate about Computer Science and Earth Science.
+I'm a high school IBDP '26 student (now a Cornell '30 Student) passionate about Computer Science and Earth Science.
 
 ### Bio
 
